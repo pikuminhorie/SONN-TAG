@@ -31,8 +31,20 @@ transition-duration: 0.3s;
 .about{
 
 }
+.about p{
+    font-family: 'Sawarabi Gothic', sans-serif;
+}
 .contents{
 
+}
+.tag img{
+    width: 40vw;
+    clip-path: inset(20px 20px 20px round 30px);
+    transition:0.5s;
+}
+.tag img:hover{
+transform: scale(1.1);
+transition-duration: 0.3s;
 }
 
 
