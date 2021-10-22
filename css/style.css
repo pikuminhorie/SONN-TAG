@@ -2,12 +2,34 @@
     margin: 0;
     padding: 0;
 }
+.all{
+    border: solid black 5px;
+}
+h1,h2,footer{
+    font-family: 'Ubuntu', sans-serif;
+}
 
-
-/*狭いPCブラウザやタブレット*/
-@media(max-width:1020px)and(min-width:768px){
+.top{
+    
+}
+.about{
 
 }
-/* スマホ用 */
-@media all and (max-width:767px){
+.contents{
+
+}
+
+
+
+
+
+/*狭いPCブラウザやタブレット縦_まだ書いてない*/
+@media(max-width:1024px)and(min-width:897px){
+
+}
+/* スマホ縦_まだ書いてない*/
+@media all and (max-width:896px){
+}
+/*スマホ横_まだ書いてない*/
+@media all and (max-width:480px){
 }
