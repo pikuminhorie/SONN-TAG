@@ -20,6 +20,12 @@ h1,h2,footer{
 }
 .top img{
     clip-path: inset(20px 20px 20px round 30px);
+    width: 100%;
+    transition:0.5s;
+}
+.top img:hover{
+transform: scale(1.1);
+transition-duration: 0.3s;
 }
 
 .about{
