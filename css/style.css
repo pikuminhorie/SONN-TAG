@@ -17,10 +17,6 @@ h1,h2,footer{
 }
 .top h1{
     font-size: 100px;
-    z-index: 1;
-    position: absolute;
-    top: auto;
-    left: 5%;
 }
 .top img{
     clip-path: inset(20px 20px 20px round 30px);
