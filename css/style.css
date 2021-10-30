@@ -43,12 +43,13 @@ transition-duration: 0.3s;
 .about p{
     font-family: 'Sawarabi Gothic', sans-serif;
 }
-.contents{
-    /* display: flex;
-    flex-direction: row; */
+.contents ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
 }
 .tag img{
-    width: 40vw;
+    width: 20vw;
     clip-path: inset(20px 20px 20px round 30px);
     transition:0.5s;
 }
