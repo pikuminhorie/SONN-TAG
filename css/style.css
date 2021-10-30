@@ -4,18 +4,17 @@
 }
 .all{
     border: solid black 5px;
-    height: 100vh;
     color:#4B6587 ;
     border-color: #C8C6C6;
     background-color: #F7F6F2;
+    background-size:cover;
 }
 
 h1,h2,footer{
     font-family: 'Ubuntu', sans-serif;
 }
 
-.top{
-    
+.top{    
 }
 .top h1{
     font-size: 100px;
